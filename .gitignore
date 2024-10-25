@@ -1,0 +1,4 @@
+.idea
+cmake-build-debug
+solution/build
+deadlock/build
